@@ -13,7 +13,6 @@ const CardList = ({ robots }) => {
           username={robots[i].username}
         />
       ))}
-      ;
     </div>
   );
 };
