@@ -1,4 +1,4 @@
-Check out the website from [here](https://snow-leopard01.github.io/react-animefriends/).
+Check out the app [here](https://snow-leopard01.github.io/react-animefriends/).
 
 # Getting Started with Create React App
 
